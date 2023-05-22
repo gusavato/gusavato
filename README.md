@@ -1,5 +1,13 @@
+<div style="text-align:center">
+    <img src="./gif/giphy.gif" alt="portada" width="200">
+</div>
+
+<br>
+
 <h1 align="center">Hi 👋, I'm Augusto Abad</h1>
 <h3 align="center">Engineer and Data Scientist</h3>
+
+<br>
 
 - 🔭 I’m currently working on **on grow professionally**
 
@@ -10,6 +18,9 @@
 - 💬 Ask me about **Python, Data Analitycs and Machine Learning**
 
 - 📫 How to reach me **augusto.abad@outlook.com**
+
+<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
