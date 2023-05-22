@@ -10,7 +10,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **on grow professionally**
+- 🔭 I’m currently working on ** grow professionally**
 
 - 🌱 I’m currently learning **to consolidate, strengthen and expand my knowledge of Data Science**
 
