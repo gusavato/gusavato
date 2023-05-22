@@ -1,5 +1,5 @@
 <div style="text-align:center">
-    <img src="./gif/giphy.gif" alt="portada" width="200" margin='auto'>
+    <img src="./gif/giphy.gif" alt="portada" width="200" style="display:block; margin:auto;">
 </div>
 
 <br>
