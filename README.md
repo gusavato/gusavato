@@ -1,11 +1,12 @@
-<div>
-    <img src="./gif/giphy.gif" alt="portada" width="200" align="center">
+<div align="center">
+    <img src="./gif/giphy.gif" alt="portada" width="200">
+    <h1 align="center">Hi 👋, I'm Augusto Abad</h1>
+    <h3 align="center">Engineer and Data Scientist</h3>
 </div>
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Augusto Abad</h1>
-<h3 align="center">Engineer and Data Scientist</h3>
+
 
 <br>
 
